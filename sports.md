@@ -4,6 +4,7 @@ I love watching all kinds of sports, football, baseball, basketball, and even es
 
 ## Football
 ![](https://a.espncdn.com/media/motion/2019/0907/dm_190907_KELLY_BRYANT_HAVE_A_DAY/dm_190907_KELLY_BRYANT_HAVE_A_DAY.jpg)
+
 Of course I am a fan of *Mizzou* football.
 
 ![](https://github.com/EthanJ11/Final-Project/blob/master/mahomes.jpg?raw=true)
