@@ -24,12 +24,12 @@ Summers 2016, 2017, 2018
 ***
 
 **CCENT Certification - Cisco Certified Entry Level Networking Technician**
-May 2018
+ - May 2018
 
 ***
 
 **TestOut Network Pro Certification**
-May 2018
+ - May 2018
 
 ---
 [Back to home.](https://github.com/EthanJ11/Final-Project)
