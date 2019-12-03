@@ -2,3 +2,4 @@
 This is my home page for my Introduction to Information Technology final project!
 
 ## Links to other pages!
+[My favorite video games!](https://github.com/EthanJ11/Final-Project/blob/master/videogames.md)
