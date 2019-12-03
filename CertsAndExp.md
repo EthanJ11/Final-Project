@@ -1,7 +1,7 @@
 # Certifications and Experience
 
 
-**Cerner High School Technical Intern  Cerner Corporation, Lees Summit MO**
+**Cerner High School Technical Intern, Cerner Corporation, Lees Summit MO**
 - June 2019 - August 2019
 
 -   Aid in providing support for the Cerner R&D Lab Datacenter.
@@ -10,7 +10,7 @@
     
 -   Data center installations (running cables, device installations and configuration)
 ***
-**IT Intern  St.John Lalande Church/School, Blue Springs MO**
+**IT Intern,  St.John Lalande Church/School, Blue Springs MO**
 
 - Summers 2016, 2017, 2018
 
