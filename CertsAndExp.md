@@ -27,7 +27,7 @@ Summers 2016, 2017, 2018
 May 2018
 
 ***
-TestOut Network Pro Certification
+***TestOut Network Pro Certification***
 May 2018
 ---
 [Back to home.](https://github.com/EthanJ11/Final-Project)
