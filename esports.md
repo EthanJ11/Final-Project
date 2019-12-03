@@ -9,7 +9,7 @@ In competitions, teams play in Best-of-30 matches, switching sides halfway throu
 
 ## ESL One New York 2019
 ![](https://static.invenglobal.com/upload/image/2019/09/29/i1569799250929965.jpeg)
-This is a picture from the ESL One New York Counter Strike tournament that I attended earlier this year. Attending this big Counter Strike tournaments has become one of my favorite things to do. I hope to attend some of the largest events in Europe eventually.
+This is a picture from the ESL One New York Counter Strike tournament that I attended earlier this year. Attending these big Counter Strike tournaments has become one of my favorite things to do. I hope to attend some of the largest events in Europe eventually.
 
 
 
